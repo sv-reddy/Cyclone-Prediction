@@ -1,0 +1,90 @@
+# Enhanced Cyclone Prediction System - Python Dependencies
+# ==========================================================
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning Libraries
+scikit-learn>=1.1.0
+joblib>=1.1.0
+
+# Deep Learning Framework
+tensorflow>=2.10.0
+keras>=2.10.0
+
+# Computer Vision
+opencv-python>=4.6.0
+Pillow>=9.0.0
+
+# API and Web Requests
+requests>=2.28.0
+urllib3>=1.26.0
+
+# SMS and Communication
+twilio>=8.0.0
+
+# Environment Management
+python-dotenv>=0.19.0
+
+# Progress Bars and Utilities
+tqdm>=4.64.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.15.0
+ipywidgets>=7.7.0
+
+# Data Visualization (Advanced)
+plotly>=5.10.0
+bokeh>=2.4.0
+
+# Geospatial Libraries (for location processing)
+geopy>=2.2.0
+folium>=0.12.0
+
+# Image Processing (Additional)
+imageio>=2.19.0
+scipy>=1.9.0
+
+# API Documentation and Testing
+httpx>=0.23.0
+
+# Optional: GPU Support (uncomment if you have NVIDIA GPU)
+# tensorflow-gpu>=2.10.0
+
+# Optional: Advanced Machine Learning
+# xgboost>=1.6.0
+# lightgbm>=3.3.0
+
+# Development and Testing Tools
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
+
+# Backup/Alternative packages
+# Alternative image processing
+# scikit-image>=0.19.0
+
+# Alternative HTTP client
+# aiohttp>=3.8.0
+
+# Performance monitoring
+psutil>=5.9.0
+
+# Date and time utilities
+python-dateutil>=2.8.0
+
+# JSON handling (enhanced)
+jsonschema>=4.0.0
+
+# File handling
+pathlib2>=2.3.0
+
+# Logging enhancements
+colorlog>=6.6.0
+
+# Memory optimization
+memory-profiler>=0.60.0
